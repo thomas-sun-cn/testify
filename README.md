@@ -9,6 +9,8 @@ Testify - Thou Shalt Write Tests
 
 Go code (golang) set of packages that provide many tools for testifying that your code will behave as you intend.
 
+add one more line to test sth
+
 Features include:
 
   * [Easy assertions](#assert-package)
